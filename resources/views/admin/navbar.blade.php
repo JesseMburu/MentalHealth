@@ -9,9 +9,9 @@
               <span class="mdi mdi-menu"></span>
             </button>
 
-            <li class="nav-item">
+            <div class="nav-item">
               <a class="nav-link" href="{{url('chatify')}}">Chat</a>
-            </li>
+            </div>
 
               
               <x-app-layout>
